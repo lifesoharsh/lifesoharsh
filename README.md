@@ -9,7 +9,7 @@
 - 🎓 Final-year B.Tech student passionate about software engineering & clean systems
 - 💻 Core language: **C++** (DSA + Competitive + Projects)
 - 🌐 Currently learning: **MERN Stack** and **System Design**
-- 🎯 Consistent with LeetCode, aiming for strong fundamentals before placements
+- 🎯 Consistent with LeetCode, aiming for strong fundamentals
 - 🤖 Also exploring **Computer Vision** & real-time video pipelines (YOLO, GStreamer)
 
 ---
@@ -36,7 +36,7 @@
 
 ### 📌 Current Goals
 - ✅ Master DSA (LeetCode — check out the pinned repo!)
-- 🔧 Build & deploy 1 fullstack project (MERN)
+- 🔧 Build & deploy fullstack projects (MERN)
 - 📡 Stream YOLO-detected video with GStreamer + MediaMTX
 
 ---
