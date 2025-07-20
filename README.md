@@ -42,7 +42,7 @@
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/harshmalik-dev/](https://www.linkedin.com/in/harsh-malik-b46635230/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-malik-b46635230/)
 - 📂 [LeetCode](https://leetcode.com/lifesoharsh/)
 
 ---
