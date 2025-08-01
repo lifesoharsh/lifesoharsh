@@ -42,7 +42,7 @@
 ---
 
 ### 📌 Current Goals
-- ✅ Master DSA (LeetCode — check out the pinned repo!)
+- ✅ Master DSA (Check out thr DSA_2025 repo!)
 - 🔧 Build & deploy fullstack projects (MERN)
 - 📡 Stream YOLO-detected video with GStreamer + MediaMTX
 
