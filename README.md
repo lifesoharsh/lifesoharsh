@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Harsh Malik 👋</h1>
 <p align="center">
-  <em>Final Year CS Student | Aspiring Software Developer | C++ • Fullstack • Systems</em>
+  <em>Aspiring Software Developer | C++ • Fullstack • Systems</em>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year B.Tech student passionate about software engineering & clean systems
+- 🎓  passionate about software engineering & clean systems
 - 💻 Core language: **C++** (DSA + Competitive + Projects)
 - 🌐 Currently learning: **MERN Stack** and **System Design**
-- 🎯 Consistent with LeetCode, aiming for strong fundamentals
 - 🤖 Also exploring **Computer Vision** & real-time video pipelines (YOLO, GStreamer)
 
 ---
@@ -42,7 +41,6 @@
 ---
 
 ### 📌 Current Goals
-- ✅ Master DSA (Check out thr DSA_2025 repo!)
 - 🔧 Build & deploy fullstack projects (MERN)
 - 📡 Stream YOLO-detected video with GStreamer + MediaMTX
 
